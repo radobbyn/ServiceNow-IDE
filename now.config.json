@@ -1,0 +1,10 @@
+{
+    "scope": "x_snc_reporting_sa",
+    "scopeId": "7733a5c9995332107f4431b4201b9716",
+    "name": "Reporting safety issues",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "licensing": {
+        "enforceLicense": "none"
+    },
+    "description": "Report anything you think looks shady"
+}
